@@ -131,16 +131,6 @@ bool AStarPlanner::MakePlan(){
                     }
                 }
             }
-            //if (g_cost_next < next_node->g_cost){
-                //next_node->g_cost = g_cost_next;
-                //next_node->gh_cost = next_node->g_cost + next_node->h_cost;
-                //next_node->parent = current_node;
-                //if (next_node->node_status != OPEN && next_node->node_status != CLOSED){
-                    //next_node->node_status = OPEN;
-                    //next_node->parent_action_id = i;
-                    //open_list_.push_back(next_node);
-                //}
-            //}
         }
         current_node->node_status = CLOSED;
 
