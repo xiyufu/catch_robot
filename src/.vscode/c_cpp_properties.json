@@ -1,0 +1,21 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/xyfu/userData/catkin_ws/devel/include",
+        "/home/xyfu/userData/vehicle_ws/devel/include",
+        "/opt/ros/kinetic/include",
+        "/home/xyfu/userData/catkin_ws/src/catch_point_robot/include",
+        "/home/xyfu/userData/catkin_ws/src/gen_msg_headers/include",
+        "/home/xyfu/userData/catkin_ws/src/learn_feature/include",
+        "/home/xyfu/userData/catkin_ws/src/using_markers/include",
+        "/usr/include"
+      ],
+      "name": "Linux"
+    }
+  ]
+}
